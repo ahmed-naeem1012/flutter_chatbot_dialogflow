@@ -1,16 +1,9 @@
-# chattbot
+# Chatbot with Flutter
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project works with the complete help of dialog flow that uses Trained data to communicate with the user.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dialog Flow is one of many platforms of the Google, that provides AI ChatBots training platform and we train our data to get responses as per that.
